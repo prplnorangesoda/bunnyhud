@@ -1,0 +1,6 @@
+[tools]
+"github:prplnorangesoda/ValveResourceFormat" = { version = "test6", matching = "cli" }
+
+[tasks.build]
+description = "build mod"
+run = "Source2Viewer-CLI -i mod --vpk_create dist/pak67_dir.vpk"
