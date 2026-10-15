@@ -1,3 +1,0 @@
-(function () {
-  $.Msg("PENISPOOPFARTDICKPENIS");
-})();
